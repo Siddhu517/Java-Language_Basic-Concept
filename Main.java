@@ -1,4 +1,4 @@
-package section1;
+//package section1;
 
 import java.util.*;
 
@@ -303,12 +303,9 @@ public class Main {
     }
     System.out.println("This student name is Aman"); */
 
-
-
     //****************** */
     //Methods / Functions
-    
-    //System.out.println("Hello Java ");
 
+    System.out.println("Hello Java ");
   }
 }
